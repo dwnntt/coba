@@ -1,0 +1,35 @@
+<biografi>
+	<biodata>
+		<nama>Suci Dewanti</nama>
+		<alamat>Desa Jatipelem</alamat>
+		<kota>Jatipelem</kota>
+		<pendidikan>
+			<sd>SDN Jatipelem II</sd>
+			<smp>SMP Negeri 1 Perak</smp>
+			<sma>SMK Telekomunikasi Darul 'Ulum Jombang </sma>	
+		</pendidikan>
+		<hobi>Tidur</hobi>
+	</biodata>
+	<biodata>
+		<nama>Tamora Nonia Wijaya</nama>
+		<alamat>Jl. Mayjend Sungkono No. 15</alamat>
+		<kota>Kediri</kota>
+		<pendidikan>
+			<sd>SDN 2 Dandangan</sd>
+			<smp>SMPN 3 Kediri</smp>
+			<sma>SMAN 7 Kediri </sma>	
+		</pendidikan>
+		<hobi>Mencari Flash Sale</hobi>
+	</biodata>
+	<biodata>
+		<nama>Bahrul Sawabuddin</nama>
+		<alamat>Jl. Raya Kediri</alamat>
+		<kota>Nganjuk</kota>
+		<pendidikan>
+			<sd>SDN Loceret 1</sd>
+			<smp>SMPN 1 Loceret </smp>
+			<sma>SMAN 1 Berbek</sma>	
+		</pendidikan>
+		<hobi>Bengkel</hobi>
+	</biodata>
+</biografi>
